@@ -9,7 +9,7 @@
 | rmdir [directory_name]              | Removes a directory                           |
 | touch [filename]                    | Creates a new file within current directory   |
 | rm [filename]                       | Removes a file                                |
-| rm -rf [directory name]             | Removes a folder along with its files inside  |
+| rm -r [directory name]              | Removes a folder along with its files inside  |
 | mv [/source/of/file] [/destination] | Moves a file to a chosen destination          |
 | clear                               | Clears the terminal window                    |
  
