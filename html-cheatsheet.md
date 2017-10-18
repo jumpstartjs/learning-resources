@@ -4,8 +4,8 @@
 
 | Element                                                  | Description                                   |
 |:-------------------------------------------------------- |:----------------------------------------------|
-| \<div>Hello</div>                                        | Used for containing text and other elements   |
-| <h1>Big title</h1> - <h6>Small title</h6>                | Used to create titles                         |
+| \<div>Hello\</div>                                        | Used for containing text and other elements   |
+| \<h1>Big title\</h1> - \<h6>Small title\</h6>                | Used to create titles                         |
 | <p>Paragraph</p>                                         | Used for paragraphs                           |
 | <a href=”/google.com”>Link</a>                           | Used to link to other places on the web       |
 | <img src=”/image.png” />                                 | Used for images                               |
